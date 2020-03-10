@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button/>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>auto</input_source>
+        <input_style>inline</input_style>
+        <input_type>date</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Start date</name>
+        <order>10</order>
+        <parameter_type>screen</parameter_type>
+        <placeholder/>
+        <screen display_value="By Request Type">d32f745c1b274010c401fc88cc4bcb4a</screen>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-10 11:56:29</sys_created_on>
+        <sys_id>9c8bdd981ba74010c401fc88cc4bcb4f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Start date</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_9c8bdd981ba74010c401fc88cc4bcb4f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-10 12:05:18</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=9c8bdd981ba74010c401fc88cc4bcb4f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ceec90bddb98b70052dd2f17d4961944</instance_id>
+        <instance_name>dev76239</instance_name>
+        <name>sys_sg_ui_parameter_9c8bdd981ba74010c401fc88cc4bcb4f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button/><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name/><input_source>auto</input_source><input_style>inline</input_style><input_type>date</input_type><mandatory>false</mandatory><multi_select>false</multi_select><name>Start date</name><order>10</order><parameter_type>screen</parameter_type><placeholder/><screen display_value="By Request Type">d32f745c1b274010c401fc88cc4bcb4a</screen><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-10 11:56:29</sys_created_on><sys_id>9c8bdd981ba74010c401fc88cc4bcb4f</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Start date</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_ui_parameter_9c8bdd981ba74010c401fc88cc4bcb4f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-10 12:05:18</sys_updated_on><table_name/></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=9c8bdd981ba74010c401fc88cc4bcb4f"/></record_update>]]></payload>
+        <payload_hash>456962572</payload_hash>
+        <record_name>Start date</record_name>
+        <reverted_from/>
+        <source>6e32fc181be34010c401fc88cc4bcba5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-10 12:05:18</sys_created_on>
+        <sys_id>dd8d195c1ba74010c401fc88cc4bcb2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170c455bfd60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-10 12:05:18</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>198d195ca8a74010830e83b3e7f5032d</update_guid>
+        <update_guid_history>198d195ca8a74010830e83b3e7f5032d:456962572,9c7dd51c75a74010bc5c1b85aeb4c3d2:-1166245562,54dc1dd8a7a74010bc01190c32d5fe31:1324367958,508bdd98d9a7401057b412580ed74653:-1166245562</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-10 12:08:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>53dab6a32ff94747a4b4e07ca27c5249</sys_id>
+        <sys_metadata>9c8bdd981ba74010c401fc88cc4bcb4f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Start date</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_9c8bdd981ba74010c401fc88cc4bcb4f</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_9c8bdd981ba74010c401fc88cc4bcb4f">dd8d195c1ba74010c401fc88cc4bcb2d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-10 12:08:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
